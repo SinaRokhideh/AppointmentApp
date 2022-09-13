@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SinaRokhideh/AppointmentApp.git/static/css/main.e836ff5d.chunk.css",
+    "main.js": "/SinaRokhideh/AppointmentApp.git/static/js/main.3dbaa1e9.chunk.js",
+    "main.js.map": "/SinaRokhideh/AppointmentApp.git/static/js/main.3dbaa1e9.chunk.js.map",
+    "runtime-main.js": "/SinaRokhideh/AppointmentApp.git/static/js/runtime-main.db00286f.js",
+    "runtime-main.js.map": "/SinaRokhideh/AppointmentApp.git/static/js/runtime-main.db00286f.js.map",
+    "static/js/2.3e630d12.chunk.js": "/SinaRokhideh/AppointmentApp.git/static/js/2.3e630d12.chunk.js",
+    "static/js/2.3e630d12.chunk.js.map": "/SinaRokhideh/AppointmentApp.git/static/js/2.3e630d12.chunk.js.map",
+    "index.html": "/SinaRokhideh/AppointmentApp.git/index.html",
+    "static/css/main.e836ff5d.chunk.css.map": "/SinaRokhideh/AppointmentApp.git/static/css/main.e836ff5d.chunk.css.map",
+    "static/js/2.3e630d12.chunk.js.LICENSE.txt": "/SinaRokhideh/AppointmentApp.git/static/js/2.3e630d12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db00286f.js",
+    "static/js/2.3e630d12.chunk.js",
+    "static/css/main.e836ff5d.chunk.css",
+    "static/js/main.3dbaa1e9.chunk.js"
+  ]
+}
